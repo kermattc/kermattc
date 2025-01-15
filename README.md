@@ -4,7 +4,7 @@ Hey there! I'm Matt. I'm a computer science graduate with a master's degree from
 
 After graduating, I picked up full-stack development and DevOps. My projects include my [Electric Guitar Finder Website](https://github.com/kermattc/electric-guitar-backend) and my [Portfolio Website](https://github.com/kermattc/portfolio-site).
 
-Outside of coding, I like to play guitar (At the time of writing this, I'm starting a band!), play baseball and mod keyboards. I also like staying physically active, so I hit the gym regularly and stick to a solid meal plan.
+Outside of coding, I like to play guitar (at the time of writing this, I'm starting a band!), play baseball and mod keyboards. I also like staying physically active, so I hit the gym regularly and stick to a solid meal plan.
 
 <!--
 **kermattc/kermattc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
